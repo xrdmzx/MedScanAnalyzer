@@ -1,5 +1,4 @@
 # Medical Scan Analyzer Guide
-# Authors: Ian Kratzinger, Ronald Zambrano, Jhansi Bhaskarla
 
 Medical Scan Analyzer is a Python GUI that can be used to upload medical images.
 Users can then rate these images and view the ratings that other users have left.

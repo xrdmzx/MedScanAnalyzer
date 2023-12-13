@@ -2,7 +2,7 @@ import tkinter as tk
 import webbrowser
 
 def open_github_readme():
-    url = 'https://github.com/ouruser/README.md'
+    url = 'https://github.com/xrdmzx/MedScanAnalyzer'
     webbrowser.open_new(url)
 
 def help_gui(help_tab):
